@@ -1,0 +1,46 @@
+{
+  "tags": [
+    {
+      "name": "Technology",
+      "slug": "technology",
+      "description": "All about the latest in tech, gadgets, and software.",
+      "parent": null
+    },
+    {
+      "name": "Programming",
+      "slug": "programming",
+      "description": "Articles about programming languages and techniques.",
+      "parent": "technology"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript",
+      "description": "Articles about JavaScript programming.",
+      "parent": "programming"
+    },
+    {
+      "name": "Health",
+      "slug": "health",
+      "description": "Health tips, news, and research.",
+      "parent": null
+    },
+    {
+      "name": "Fitness",
+      "slug": "fitness",
+      "description": "Tips and news about fitness and exercise.",
+      "parent": "health"
+    },
+    {
+      "name": "Lifestyle",
+      "slug": "lifestyle",
+      "description": "Articles about lifestyle, travel, and personal growth.",
+      "parent": null
+    },
+    {
+      "name": "Travel",
+      "slug": "travel",
+      "description": "Travel guides, tips, and personal experiences.",
+      "parent": "lifestyle"
+    }
+  ]
+}
